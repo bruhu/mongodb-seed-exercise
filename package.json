@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-seed-exercise",
+  "version": "1.0.0",
+  "description": "1. Let's build a seed script - We need lots of data, we can use faker.js to create big amounts of fake data - Make yourself familiar with faker.js https://www.npmjs.com/package/faker - Use mongoose to connect to your database https://mongoosejs.com/The docs can be challenging, take your time! - Create a schema for users:   - First Name   - Last Name   - Email   - Age   - Username   - Short bio   - Address:     - Street     - Street number     - Zip     - City    - Country    - Phone number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruhu/mongodb-seed-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruhu/mongodb-seed-exercise/issues"
+  },
+  "homepage": "https://github.com/bruhu/mongodb-seed-exercise#readme",
+  "dependencies": {
+    "mongoose": "^5.6.8"
+  }
+}
