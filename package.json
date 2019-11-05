@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bruhu/mongodb-seed-exercise#readme",
   "dependencies": {
-    "mongoose": "^5.6.8"
+    "mongoose": "^5.7.5"
   }
 }
